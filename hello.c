@@ -1,10 +1,8 @@
-#include <stdio.h>
-
 int main(void){
     printf("Hello, World!");
 
     printf("ByeBye");
 
     printf("뭐라도");
-    dddd    return 0;
+    return 0;
 }
