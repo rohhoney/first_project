@@ -6,6 +6,5 @@ int main(void){
     printf("ByeBye");
 
     printf("뭐라도");
-    
-    return 0;
+    dddd    return 0;
 }
