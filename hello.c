@@ -4,5 +4,7 @@ int main(void){
     printf("ByeBye");
 
     printf("뭐라도");
+
+    printf("im master");
     return 0;
 }
